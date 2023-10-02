@@ -1,5 +1,8 @@
 /* Select the image with a class of kitty-1 */
-write-your-selector-here {
+
+
+
+{
   position: absolute;
   z-index: 1;
   top: 276px;
